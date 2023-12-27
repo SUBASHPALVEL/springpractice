@@ -7,7 +7,6 @@
 </head>
 <body>
     <h1>Hello, </h1>
-    ${details.name}, ${details.age}, ${details.regno}
-
+    ${details.name}, ${details.age}, ${details.address}
 </body>
 </html>
